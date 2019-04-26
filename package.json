@@ -1,0 +1,23 @@
+{
+  "name": "visa-checkout-decrypt",
+  "version": "1.0.1",
+  "description": "visa checkout encPaymentData decrypt",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/edcesar/visa-checkout-encpaymentdata-decrypt.git"
+  },
+  "keywords": [
+    "visaCheckout",
+    "encpaymentdata"
+  ],
+  "author": "Ed Cesar Ribeiro de Souza",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/edcesar/visa-checkout-encpaymentdata-decrypt/issues"
+  },
+  "homepage": "https://github.com/edcesar/visa-checkout-encpaymentdata-decrypt#readme"
+}
