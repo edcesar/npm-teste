@@ -31,3 +31,5 @@ function decrypt(encrypted, key) {
   let decryptedData = Buffer.concat([decipher.update(data), decipher.final()]);
   return decryptedData;
 }
+
+// teste
